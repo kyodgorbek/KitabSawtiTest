@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:icon="@drawable/ic_introduction"
+        android:title="@string/text_introduction" />
+
+    <item
+        android:icon="@drawable/ic_education"
+        android:title="@string/text_education" />
+
+    <item
+        android:icon="@drawable/ic_work"
+        android:title="@string/text_work" />
+
+    <item
+        android:icon="@drawable/ic_skills"
+        android:title="@string/text_skills" />
+
+    <item
+        android:icon="@drawable/ic_contact"
+        android:title="@string/text_contact" />
+
+</menu>
+
+
